@@ -1,0 +1,10 @@
+- print Greeting
+- print Prompt "> "
+- Get some user input
+- while loop that checks that it's not the specific statement we want
+- If it is that statement:
+  - Bye statement
+  - Exit
+- If it wasn't the right statement:
+  - Print some statement
+  - Go back to the prompt
